@@ -1,0 +1,21 @@
+{
+  "name": "dainkarya-lekh",
+  "version": "0.0.1",
+  "description": "Time logs project. Used for loging time for the users",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.2",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
